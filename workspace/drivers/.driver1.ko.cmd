@@ -1,0 +1,1 @@
+savedcmd_/home/mirafra/workspace/drivers/driver1.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/mirafra/workspace/drivers/driver1.ko /home/mirafra/workspace/drivers/driver1.o /home/mirafra/workspace/drivers/driver1.mod.o
